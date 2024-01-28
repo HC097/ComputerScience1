@@ -1,0 +1,37 @@
+// Lab 7
+// Harley Combest
+// 60787
+
+Q1)
+   ArrayList<Student> studentList = new ArrayList();
+
+Q2)
+   stringList.remove(stringList.size()-1);
+
+Q3)
+   Autoboxing is passing a primitive to a method that takes a parameter that is a wrapper.
+
+Q4)
+   The wrapper class for double is Double.
+
+Q5)
+   You would use a for loop such as:
+
+	for(int a=0; i<b.size() for(int a=0; i<b.size(); a++){
+
+                System.out.println(a);
+
+        }
+   .
+Q6)
+   You would use an encganced loop such as:
+
+	for(Integer i:a){
+
+	System.out.println(i);
+
+	}
+   .
+
+Q7)
+   HashMap<String, Integer> h = new HashMap<grass, 1>();

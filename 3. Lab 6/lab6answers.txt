@@ -1,0 +1,39 @@
+// Harley Combest
+// CS-1113
+// 60787
+
+Q1) double[] myDoubles;
+
+Q2) 0
+
+Q3) null
+
+Q4) for (int i=0; i<y.length; i++)
+Q5)
+	a[i] = 0
+        a[i] = 1
+        a[i] = 2
+        a[i] = 3
+
+
+Q6)The program first printed out the indices starting at a[i] = 1 and  ending at a[i] = 3.
+   It then, after the last indice, wrote out 
+
+	Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 4 at Lab6a.main(Lab6a.java:8).
+
+Q7) for (int i=a.length-1; i >= 0; i--)
+
+Q8) 
+   f''(1)= -7
+   f''(2)= 18
+   f''(3)= -60
+
+Q9)
+   String s = "fun string';
+   String[] anArray  = new String[1000];
+   for (int i = 0; i < anArray.length; i++){
+	anArray[i] = s;
+   } 
+
+Q10)
+    One string would actually be created.

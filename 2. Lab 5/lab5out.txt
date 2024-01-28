@@ -1,0 +1,4 @@
+Sum = 21.0Product= 720.0average= 3.5
+Sum = 15.0Product= 120.0average= 5.0
+Sum = 25.0Product= 573.75average= 8.333333333333334
+Sum = 27.599999999999998Product= 767.556average= 9.2

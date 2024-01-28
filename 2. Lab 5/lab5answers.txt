@@ -1,0 +1,32 @@
+// Lab5c
+// Harley Combest
+// 60787
+
+Q1) 
+
+   1   2   3   4   5
+   2   4   6   8  10
+   3   6   9  12  15
+   4   8  12  16  20
+   5  10  15  20  25
+
+Q2)
+   A getter method is a method used to get property values.
+
+Q3)
+   A setter method is a method that changes properties in the class.
+
+Q4)
+   Instance variables are typically made private.
+
+Q5)
+   Local variables can not have access modifiers.
+
+Q6)
+   a) any code
+   b) code of a class
+   c) code of a class and its subclasses
+
+
+
+

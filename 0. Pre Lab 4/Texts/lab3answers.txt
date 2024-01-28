@@ -1,0 +1,87 @@
+Q1) By convention, variable names in Java use camel case. Describe what this is:
+
+	Camel case is a writing technique in which each word in the middle of a phrase begins with a capital letter without spaces or punctuation.
+
+Q2) What is the difference between the style for a class name and a variable name in Java?
+
+	Whereas class names begin with an uppercase letter, variable names begin with a lowercase letter.
+
+Q3) What is the standard indentation style for curly braces in Java?
+
+	As stated in the Coding Stands and Programming Tips Handout, the standard indentation style for curly braces in java is to, when programming,
+        align the left and right curly braces directly below the statement they spring from.
+
+Q4) Why is proper indentation important in Java code?
+
+	Proper indentation in Java is important due to the fact that readability is important. If a program is hardly readable, then it is hardly fixable.
+
+Q5) What is the common way to specify a constant value in Java?
+
+	The common way to specify constant values in Java is to given them (the said constant values) a name in uppercase lettering with underscores seperating
+	the words themselves.
+
+Q6) What unamed constants are usually acceptable in a Java program?
+
+	Unamed constants that are usually acceptable in a Java program include: 0, 0.0, and 1.
+
+Q7) Which of the bits of code below follow the coding standrads? Write the letters of the expressions that follow the coding standards on your answer sheet.
+
+	
+	a, c, e
+
+Q8) If b is a type of int, and c is of type double, what are the types of the following expressions? Write the types of the expressions on your answer sheet.
+
+	a. int
+	b. int
+	c. double
+	d. int
+	e. double
+
+Q9) Why would a programmer want to define custom classes instead of just using primitive types such as int and float?
+
+	I imagine it's because it is a lot easier to store various types of information in a class type in comparision to storing said information in primitive types.
+
+Q10) Between objects and class, which is more like a template, and which is more like a specific thing?
+
+	Whereas objects are mow like a specific thing, classes are more like a template.
+
+Q11) Describe the difference between a static and non-static variable.
+
+	Whereas a static variable requires the static keyword, a non-static variable does not require the static keyword.
+
+Q12) Write the code for the Car class that contains a static variable for the total number of cars manufactured, and non-static variable for the car model.
+     (Hint: start with "public class Car". You do not need to include any methods just state the static and non-static variables. Also, thik about what types
+     the two variables should have. What type should the totalCarsManufactured have? What type should carModel have?).
+
+	public class Car
+        {
+
+	 public static int totalCarsManufactured;
+	 String myCarModel;    
+
+	    
+	}
+
+Q13)
+
+	
+	Lab 3 for <Harley Combest>
+	Enter the title and section of the course.
+	CS-1113-60787
+	Enter two integer numbers :
+	4 2
+	Enter your grade point average.
+	0.0
+	Enter the total sales tax from your most recent purchase.
+	2.71
+	Title: CS-1113-60787
+	iA + iB = 6
+	iA * iB = 8
+	iA / iB = 2
+	iA % iB = 0
+	dA + dB = 2.71
+	dA - dB = -2.71
+	dA * dB = 0.0
+	dA / dB = 0.0
+	dA % dB = 0.0
+

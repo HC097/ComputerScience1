@@ -1,0 +1,58 @@
+Harley Combest
+60787
+
+Q1) What does the following code print?
+
+	int a = 7;
+	if ( a == 3)
+	      System.out.println("a is 3");
+	else
+	{
+	      System.out.println("a is not 3");
+	}
+	System.out.println("done");
+
+
+	This code prints:
+
+		 a is not 3
+		 done
+
+Q2)What does the if-else chain below print?
+
+	 double d = 4.2;
+  if (d < 4.0)
+      System.out.printf("Below four: %1.2f%n", d);
+  else if (d == 4.0)
+      System.out.printf("Four Exactly%n");
+  else
+      System.out.printf("Above four: %1.4f%n", d);
+
+
+	This code prints:
+			
+			Above four: 4.2000
+
+Q3)What does the following while loop print?
+
+int i=0;
+while (i<10)
+{
+
+	i = 2*i + 1;
+	System.out.printf("i = %d%n", i);
+}
+
+	This Code prints:
+			
+			i = 1
+			i = 3
+			i = 7
+			i = 15
+
+Q4)What would you type if you wanted to run a class called MyClass, using the file myInput.txt as input?
+
+
+	I would type java MyClass < myInput.txt
+
+Q5)

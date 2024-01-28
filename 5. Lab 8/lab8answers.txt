@@ -1,0 +1,27 @@
+// Lab 8
+// Harley Combest
+// 60787
+
+Q1)
+   double[][] arr2d+ new int [4][9];
+   
+Q2)
+   000000000
+   070000000
+   000008000
+   000000000
+
+Q3)
+   int iniVar = 0;
+   for (int r=0; r < arr2D.length; r++)
+   {
+      for (int c0; c < arr2D[r].length; c++)
+      {
+	arr2D[r][c]= iniVar;
+	iniVar += 1;
+	printf("%d/n", A[i][j]);
+      }
+}
+
+Q4)
+   int[][][] b= new int[10][10][10];      

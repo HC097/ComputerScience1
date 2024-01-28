@@ -1,0 +1,37 @@
+Harley Combest
+Section Number Unknown
+
+1. /home/hcombes/lab2
+
+2. Yes
+
+3. 0: Hello Pico from <Harley Combest!>							      
+   1: Hello Pico from <Harley Combest!>                                                                               
+   2: Hello Pico from <Harley Combest!>							     
+   3: Hello Pico from <Harley Combest!>                                                                              
+   4: Hello Pico from <Harley Combest!>
+
+4. cat filec
+
+5. filea fileb filec HelloPico.class HelloPico.java
+
+6. -rw------- l hcombes    14  Sep 2 13:24 filea
+   -rw------- l hcombes    14  Sep 2 13:25 fileb
+   -rw------- l hcombes    28  Sep 2 13:45 filec
+   -rw------- l hcombes  702  Sep 2 13:38 HellPico.class
+
+7. . .. Filea fileb filec HelloPico.class HelloPico.java
+
+8. drwx------   2 hcombes hcombes  90 Sep  2 13:45 .
+   drwx--x--x   8 hcombes hcombes 140 Sep  2 10:56 ..
+
+9. THIS is filea
+
+10. It is now listed as filex.
+
+11. Filea, fileb, and filex are no longer shown.
+
+
+
+
+
